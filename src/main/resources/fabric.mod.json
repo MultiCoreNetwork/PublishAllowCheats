@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "publishallowcheats",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Publish allowCheats",
+  "description": "Small Fabric Mod that adds the 'allowCheats' parameter to the '/publish' vanilla command.",
   "authors": [
     "BisUmTo"
   ],
