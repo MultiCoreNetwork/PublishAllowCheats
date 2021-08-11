@@ -1,15 +1,9 @@
-# Publish allowCheats (for Fabric)
+# Fabric Example Mod
 
-![GitHub license](https://img.shields.io/github/license/MultiCoreNetwork/PublishAllowCheats.svg)
-[![Discord chat](https://img.shields.io/badge/chat%20on-discord-7289DA)](https://multicore.network/discord)
-[![CurseForge downloads](http://cf.way2muchnoise.eu/full_417150_downloads.svg)](https://minecraft.curseforge.com/projects/publishallowcheats)
+## Setup
 
-Small Fabric Mod that adds the 'allowCheats' parameter to the '/publish' vanilla command.
+For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
 
-### Command Syntax
+## License
 
-    /publish [allowCheats] [<port>]
-
-### Download
-
-You can find downloads for 'Publish allowCheats' on the [official CurseForge page](https://www.curseforge.com/minecraft/mc-mods/publishallowcheats).
+This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.

@@ -4,7 +4,7 @@
   "version": "${version}",
 
   "name": "Publish allowCheats",
-  "description": "Small Fabric Mod that adds the 'allowCheats' parameter to the '/publish' vanilla command.",
+  "description": "Small Fabric Mod that adds 'allowCheats' and 'offlineMode' parameters to the '/publish' vanilla command.",
   "authors": [
     "BisUmTo"
   ],
@@ -27,7 +27,8 @@
 
   "depends": {
     "fabricloader": ">=0.7.4",
-    "minecraft": ">=1.16"
+    "minecraft": ">=1.17",
+    "java": ">=16"
   },
   "suggests": {
   }
